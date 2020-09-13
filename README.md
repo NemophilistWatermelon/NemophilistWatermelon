@@ -9,7 +9,7 @@
  - HTML（Programming and Logicality） 🎍
  - PYTHON (Love Flask) ✨
  - Node.js (Love Express) 🎈
-# 🚴‍♀️ 一道坦诚的路，我会是路上普普通通的信徒，加油 努力生活！
+＃ 🍭道坦诚的路，我会是路上普普通通的信徒，加油努力生活！
 <!--
 **Keviniswhite/Keviniswhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
