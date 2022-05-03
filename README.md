@@ -2,7 +2,7 @@
 #### About Me
  - CHINESE_NAME: 秦凯（QinKai）🍔
  - ENGLISH_NAME: Kevin 🍕
- - PROFILE_SITE:http://www.catvue.xyz/   🍓 { 🌱isClose: true }
+ - PROFILE_SITE:https://self-me.vercel.app/#/index   🍓 { 🌱RE: FALSE }
 #### About Love Lang
  - JavaScript (Native Functional and Fast Programming) 💍
  - CSS (Programming or Native) 🎃
