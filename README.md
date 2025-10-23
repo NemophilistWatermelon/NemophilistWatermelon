@@ -1,6 +1,6 @@
 ### Hi I'm nemo 👋
 #### About Me
- - PROFILE_SITE:[netlify](https://self-udpn.netlify.app/)   🍓 { 🌱RE: FALSE }
+ - PROFILE_SITE:[SELF](https://self-udpn.netlify.app/)   🍓 { 🌱RE: FALSE }
 #### About Love Lang
  - JavaScript (Native Functional and Fast Programming) 💍
  - CSS (Programming or Native) 🎃
